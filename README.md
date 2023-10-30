@@ -1,0 +1,2 @@
+# ShowHiddenChannels-Fixxed
+Fixxed ShowHiddenChannels
